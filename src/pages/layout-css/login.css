@@ -1,0 +1,30 @@
+.input-name {
+    width: 20vw;
+    margin-left:27%;
+    margin-top:-35px;
+}
+.btn-login {
+    margin-left:35%;
+    margin-top:35px;
+    width:10vw;
+}
+.h3-loguin{
+    color: black;
+    margin-top:100px;
+    text-align: center;
+   
+}
+.h3-name{
+    margin-left:14%;
+    color: black;
+
+}
+.form {
+    display:flex;
+    flex-direction: column;
+    background-color: #dddddd;
+    width: 40vw;
+    margin-left:30%;
+    margin-top:100px;
+    height: 40vh;
+}
